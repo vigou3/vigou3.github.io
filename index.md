@@ -41,8 +41,9 @@ probabilities.
 [[CRAN page](https://cran.r-project.org/package=actuar)]
 [[Source](https://github.com/vigou3/actuar)]
 
-### [expint](https://cran.r-project.org/package=expint) Exponential
-integral and the incomplete gamma function.
+### [expint](https://cran.r-project.org/package=expint) 
+
+Exponential integral and the incomplete gamma function.
 [[CRAN page](https://cran.r-project.org/package=expint)]
 [[Source](https://github.com/vigou3/expint)]
 
@@ -54,8 +55,9 @@ integral and the incomplete gamma function.
 *Rédaction avec LaTeX* is an introductory course (in French) for the
 LaTeX typesetting system prepared for Bibliothèque of Université Laval
 and based on a 200+ page reference manual. It is distributed as an
-extension package through the Comprehensive TeX Archive Network (CTAN)
-and is included in the [TeX Live](https://tug.org/texlive) and
+extension package through the
+[Comprehensive TeX Archive Network](https://ctan.org) (CTAN) and is
+included in the [TeX Live](https://tug.org/texlive) and
 [MiKTeX](https://miktex.org) distributions.
 [[Project page](https://vigou3.github.io/formation-latex-ul)]
 [[Source](https://github.com/vigou3/formation-latex-ul)]
@@ -67,7 +69,7 @@ compliant with the presentation rules set forth by the Faculty of
 Graduate Studies of Université Laval. Note that the documentation for
 the class and the comments in the templates are all written in French,
 the language of the target audience.
-[[CTAN](https://ctan.org/pkg/ulthese)]
+[[CTAN page](https://ctan.org/pkg/ulthese)]
 [[Source](https://github.com/vigou3/ulthese)]
 
 ### francais-bst
@@ -75,7 +77,7 @@ the language of the target audience.
 Package francais-bst provides natbib compatible bibliography style
 files to typeset bibliographies using the French typographic standards
 set forth in Guide de la communication écrite by Marie Malo (Québec
-Amérique, 1996). [[CTAN](https://ctan.org/pkg/francais-bst)]
+Amérique, 1996). [[CTAN page](https://ctan.org/pkg/francais-bst)]
 [[Source](https://github.com/vigou3/francais-bst)]
 
 ### actuarialsymbol
@@ -90,7 +92,7 @@ package defines a number of shortcut macros to ease entry of the most
 common elements. Appendix A of the package documentation lists the
 commands to typeset a large selection of symbols of life
 contingencies. 
-[[CTAN](https://ctan.org/pkg/actuarialsymbol)]
+[[CTAN page](https://ctan.org/pkg/actuarialsymbol)]
 [[Source](https://github.com/vigou3/actuarialsymbol)]
 
 ### actuarialangle
@@ -98,5 +100,5 @@ contingencies.
 actuarialangle is a tiny LaTeX package that defines a single command
 to typeset nice looking angles in actuarial and financial notation,
 such as in symbols for the present value of an annuity.
-[[CTAN](https://ctan.org/pkg/actuarialangle)]
+[[CTAN page](https://ctan.org/pkg/actuarialangle)]
 [[Source](https://github.com/vigou3/actuarialangle)]
