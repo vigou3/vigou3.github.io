@@ -59,3 +59,10 @@
   emphasize joint status in symbols of life contingencies.
   [[View on GitHub](https://github.com/vigou3/actuarialangle)]
   [[View on CTAN](https://ctan.org/pkg/actuarialangle)]
+
+## Actuarial documentation and class notes
+
+[**Modélisation des distributions de sinistres avec R**](https://vigou3.github.io/modelisation-distributions-sinistres-avec-r/)
+  Exhautive manual (in French) on statistical modeling of loss
+  distributions using [R](https://www.r-project.org).
+  [[View on GitHub](https://github.com/vigou3/modelisation-distributions-sinistres-avec-r)]
