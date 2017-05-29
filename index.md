@@ -18,6 +18,11 @@
   [R](https://www.r-project.org) language.
   [[View on GitHub](https://github.com/vigou3/introduction-programmation-r)]
 
+[**Introduction à R - Atelier du colloque R à Québec 2017**](https://vigou3.github.io/raquebec-atelier-introduction-r/)
+  Libre introduction to R workshop (in French) featured at 
+  [R à Québec 2017](http://raquebec.ulaval.ca/2017/).
+  [[View on GitHub](https://github.com/vigou3/raquebec-atelier-introduction-r)]
+
 **actuar** First R package dedicated specifically to actuarial
   computations and modeling.
   [[View on GitHub](https://github.com/vigou3/actuar)]
