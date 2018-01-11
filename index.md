@@ -76,9 +76,15 @@
   [[View on GitHub](https://github.com/vigou3/actuarialangle)]
   [[View on CTAN](https://ctan.org/pkg/actuarialangle)]
 
-## Actuarial documentation and class notes
+## Actuarial documentation
+
+[**Méthodes numériques en actuariat avec R**](https://vigou3.github.io/methodes-numeriques-en-actuariat/)
+  Collection of three manuals (in French) covering random number
+  generation, numerical analysis and linear algebra. The numerical
+  aspects are treated with [R](https://www.r-project.org).
+  [[View on GitHub](https://github.com/vigou3/methodes-numeriques-en-actuariat)]
 
 [**Modélisation des distributions de sinistres avec R**](https://vigou3.github.io/modelisation-distributions-sinistres-avec-r/)
-  Exhautive manual (in French) on statistical modeling of loss
+  Exhaustive manual (in French) on statistical modeling of loss
   distributions using [R](https://www.r-project.org).
   [[View on GitHub](https://github.com/vigou3/modelisation-distributions-sinistres-avec-r)]
