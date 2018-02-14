@@ -88,3 +88,11 @@
   Exhaustive manual (in French) on statistical modeling of loss
   distributions using [R](https://www.r-project.org).
   [[View on GitHub](https://github.com/vigou3/modelisation-distributions-sinistres-avec-r)]
+
+[**Théorie de la crédibilité avec R**](https://vigou3.github.io/theorie-credibilite-avec-r/)
+  Introductory manual (in French) on credibility theory. Covers
+  limited fluctuation credibility, Bayesian ratemaking and the
+  Bühlmann and Bühlmann-Straub credibility models. Numerical
+  illustrations are done with [R](https://www.r-project.org) and
+  package [**actuar**](https://cran.r-project.org/package=actuar).
+  [[View on GitHub](https://github.com/vigou3/theorie-credibilite-avec-r)]
