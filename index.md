@@ -19,6 +19,16 @@
   replaces *Introduction à la programmation en R*, below.
   [[View on GitHub](https://github.com/vigou3/programmer-avec-r)]
 
+[**Programmation lettrée et R Markdown**](https://vigou3.github.io/laboratoire-rmarkdown)
+  Three hour training course (in French) on literate programming in
+  general and [R Markdown](https://rmarkdown.rstudio.com) in particular.
+  [[View on GitHub](https://github.com/vigou3/laboratoire-rmarkdown)]
+
+[**Rapports dynamiques avec Shiny**](https://vigou3.github.io/laboratoire-shiny)
+  Three hour training course (in French) on production of dynamic
+  reports with [Shiny](https://shiny.rstudio.com).
+  [[View on GitHub](https://github.com/vigou3/laboratoire-shiny)]
+
 [**Introduction à la programmation en R**](https://vigou3.github.io/introduction-programmation-r/)
   Libre textbook (in French) on programming with the
   [R](https://www.r-project.org) language.
