@@ -13,12 +13,6 @@
 
 ## R documentation and packages
 
-[**Programmer avec R**](https://vigou3.github.io/programmer-avec-r/)
-  Libre introduction to programming textbook (in French) using 
-  [R](https://www.r-project.org) as programming language. Based on and
-  replaces *Introduction à la programmation en R*, below.
-  [[View on GitHub](https://github.com/vigou3/programmer-avec-r)]
-
 [**Programmation lettrée et R Markdown**](https://vigou3.github.io/laboratoire-rmarkdown)
   Three hour training course (in French) on literate programming in
   general and [R Markdown](https://rmarkdown.rstudio.com) in particular.
@@ -61,11 +55,6 @@
   [[View on GitHub](https://github.com/vigou3/formation-latex-ul)]
   [[View on CTAN](https://ctan.org/pkg/formation-latex-ul)]
 
-**ulthese** Document class for theses and memoirs at
-  [Université Laval](https://ulaval.ca).
-  [[View on GitHub](https://github.com/vigou3/ulthese)]
-  [[View on CTAN](https://ctan.org/pkg/ulthese)]
-
 **francais-bst** Natbib compatible bibliography style files to typeset
   bibliographies using the French typographic standards.
   [[View on GitHub](https://github.com/vigou3/francais-bst)]
@@ -86,23 +75,3 @@
   [[View on GitHub](https://github.com/vigou3/actuarialangle)]
   [[View on CTAN](https://ctan.org/pkg/actuarialangle)]
 
-## Actuarial documentation
-
-[**Méthodes numériques en actuariat avec R**](https://vigou3.github.io/methodes-numeriques-en-actuariat/)
-  Collection of three manuals (in French) covering random number
-  generation, numerical analysis and linear algebra. The numerical
-  aspects are treated with [R](https://www.r-project.org).
-  [[View on GitHub](https://github.com/vigou3/methodes-numeriques-en-actuariat)]
-
-[**Modélisation des distributions de sinistres avec R**](https://vigou3.github.io/modelisation-distributions-sinistres-avec-r/)
-  Exhaustive manual (in French) on statistical modeling of loss
-  distributions using [R](https://www.r-project.org).
-  [[View on GitHub](https://github.com/vigou3/modelisation-distributions-sinistres-avec-r)]
-
-[**Théorie de la crédibilité avec R**](https://vigou3.github.io/theorie-credibilite-avec-r/)
-  Introductory manual (in French) on credibility theory. Covers
-  limited fluctuation credibility, Bayesian ratemaking and the
-  Bühlmann and Bühlmann-Straub credibility models. Numerical
-  illustrations are done with [R](https://www.r-project.org) and
-  package [**actuar**](https://cran.r-project.org/package=actuar).
-  [[View on GitHub](https://github.com/vigou3/theorie-credibilite-avec-r)]
