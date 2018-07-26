@@ -55,23 +55,3 @@
   [[View on GitHub](https://github.com/vigou3/formation-latex-ul)]
   [[View on CTAN](https://ctan.org/pkg/formation-latex-ul)]
 
-**francais-bst** Natbib compatible bibliography style files to typeset
-  bibliographies using the French typographic standards.
-  [[View on GitHub](https://github.com/vigou3/francais-bst)]
-  [[View on CTAN](https://ctan.org/pkg/francais-bst)]
-
-[**actuarialsymbol**](https://vigou3.github.io/actuarialsymbol)
-  Commands to compose actuarial symbols of life contingencies and
-  financial mathematics characterized by subscripts and superscripts
-  on both sides of a principal symbol.
-  [[View on GitHub](https://github.com/vigou3/actuarialsymbol)]
-  [[View on CTAN](https://ctan.org/pkg/actuarialsymbol)]
-
-[**actuarialangle**](https://vigou3.github.io/actuarialsymbol)
-  Commands to typeset the *angle* symbol denoting a duration in
-  actuarial notation, such as in symbols for the present value of
-  certain or life annuities, and an over angle bracket used to
-  emphasize joint status in symbols of life contingencies.
-  [[View on GitHub](https://github.com/vigou3/actuarialangle)]
-  [[View on CTAN](https://ctan.org/pkg/actuarialangle)]
-
