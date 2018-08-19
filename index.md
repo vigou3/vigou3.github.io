@@ -1,16 +1,3 @@
-## Distributions of GNU Emacs
-
-[**Emacs modified for macOS**](https://vigou3.github.io/emacs-modified-macos)
-  Distribution of [GNU Emacs](https://www.gnu.org/software/emacs/)
-  bundled with a few select packages for LaTeX users and R developers,
-  most notably [AUCTeX](https://www.gnu.org/software/auctex/") and
-  [ESS](https://ess.r-project.org/).
-  [[View on GitHub](https://github.com/vigou3/emacs-modified-macos)]
-
-[**Emacs modified for Windows**](https://vigou3.github.io/emacs-modified-windows)
-  Same as above, with in addition an installation wizard.
-  [[View on GitHub](https://github.com/vigou3/emacs-modified-windows)]
-
 ## R documentation and packages
 
 [**Programmation lettrée et R Markdown**](https://vigou3.github.io/laboratoire-rmarkdown)
